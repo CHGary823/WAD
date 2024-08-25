@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Personal\\Assignment\\DGM_Organical\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|c:\\personal\\assignment\\dgm_organical\\dgm_organical\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|c:\\personal\\assignment\\dgm_organical\\dgm_organical\\css\\p1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\css\\p1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,8 +18,33 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Model1.edmx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Model1.edmx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "DGM_Organical\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-25T12:41:41.868Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P1.css",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Css\\P1.css",
+              "RelativeDocumentMoniker": "DGM_Organical\\Css\\P1.css",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Css\\P1.css",
+              "RelativeToolTip": "DGM_Organical\\Css\\P1.css",
+              "ViewState": "AQIAAB8DAAAAAAAAAAAQwEIDAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-25T11:36:35.759Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"

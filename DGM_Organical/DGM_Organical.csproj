@@ -80,6 +80,7 @@
     <Content Include="App_Data\Database1_log.ldf">
       <DependentUpon>Database1.mdf</DependentUpon>
     </Content>
+    <Content Include="Chatbot.aspx" />
     <Content Include="Checkout.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Css\P1.css" />
@@ -150,6 +151,7 @@
     <Content Include="Seed1.aspx" />
     <Content Include="SignIn.aspx" />
     <Content Include="SignUp.aspx" />
+    <Content Include="StaffAttendance.aspx" />
     <Content Include="Store.aspx" />
     <Content Include="Web.config" />
     <Content Include="Cart.aspx" />
@@ -170,6 +172,13 @@
     </Compile>
     <Compile Include="Category.cs">
       <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Chatbot.aspx.cs">
+      <DependentUpon>Chatbot.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Chatbot.aspx.designer.cs">
+      <DependentUpon>Chatbot.aspx</DependentUpon>
     </Compile>
     <Compile Include="Checkout.aspx.cs">
       <DependentUpon>Checkout.aspx</DependentUpon>
@@ -251,6 +260,7 @@
     </Compile>
     <Compile Include="Product.cs">
       <DependentUpon>Model1.tt</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
     </Compile>
     <Compile Include="Product1.aspx.cs">
       <DependentUpon>Product1.aspx</DependentUpon>
@@ -312,6 +322,13 @@
     </Compile>
     <Compile Include="Staff.cs">
       <DependentUpon>Model1.tt</DependentUpon>
+    </Compile>
+    <Compile Include="StaffAttendance.aspx.cs">
+      <DependentUpon>StaffAttendance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="StaffAttendance.aspx.designer.cs">
+      <DependentUpon>StaffAttendance.aspx</DependentUpon>
     </Compile>
     <Compile Include="Store.aspx.cs">
       <DependentUpon>Store.aspx</DependentUpon>

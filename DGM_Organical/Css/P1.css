@@ -741,3 +741,191 @@ input[type="text"], input[type="email"] {
 
 
 
+/* Staff attendance styling */
+.attendance-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.attendance-header {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+    .attendance-header h1 {
+        font-size: 2.5em;
+        color: #3a9d23;
+        margin-bottom: 10px;
+    }
+
+.attendance-section {
+    margin-top: 20px;
+}
+
+.staff-info, .attendance-info, .shift-info {
+    margin-bottom: 30px;
+}
+
+    .staff-info h2, .attendance-info h2, .shift-info h2 {
+        font-size: 1.8em;
+        color: #3a9d23;
+        margin-bottom: 15px;
+    }
+
+    .staff-info p, .shift-info p, .shift-info ul {
+        font-size: 1.1em;
+        color: #333;
+    }
+
+.attendance-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+    .attendance-table th, .attendance-table td {
+        border: 1px solid #ddd;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .attendance-table th {
+        background-color: #3a9d23;
+        color: white;
+        font-weight: bold;
+    }
+
+    .attendance-table tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    .attendance-table tr:hover {
+        background-color: #ddd;
+    }
+
+.shift-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+    .shift-info ul li {
+        margin-bottom:  5px;
+    }
+/* Chart style */
+.chart-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+    .chart-container h2 {
+        font-size: 2em;
+        color: #3a9d23;
+        margin-bottom: 20px;
+    }
+
+.chart {
+    margin:  0 auto;
+}
+/* Chatbot styles */
+.chatbot-container {
+    width: 100%;
+    max-width: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 90vh;
+}
+
+.chatbot-header {
+    padding: 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+    .chatbot-header h2 {
+        margin: 0;
+        font-size: 20px;
+    }
+
+    .chatbot-header p {
+        margin: 5px 0 0;
+        font-size: 14px;
+    }
+
+.chatbot-body {
+    padding: 20px;
+    overflow-y: auto;
+    flex-grow: 1;
+}
+
+.messages-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.chatbot-footer {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    background-color: #f1f1f1;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.input-box {
+    width: 80%;
+    padding: 10px;
+    border-radius: 20px;
+    border: 1px solid #ccc;
+    outline: none;
+    font-size: 14px;
+}
+
+.send-btn {
+    width: 20%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border-radius: 20px;
+    border: none;
+    margin-left: 10px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+    .send-btn:hover {
+        background-color: #45a049;
+    }
+
+.message {
+    padding: 15px;
+    margin: 5px 0;
+    border-radius: 20px;
+    max-width: 100%;
+    word-wrap: break-word;
+    box-sizing: border-box;
+}
+
+.user-message {
+    background-color: #e0f7fa;
+    align-self: flex-end;
+    border-bottom-right-radius: 0;
+}
+
+.bot-message {
+    background-color: #e8eaf6;
+    align-self: flex-start;
+    border-bottom-left-radius:  0;
+}

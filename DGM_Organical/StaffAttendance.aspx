@@ -1,4 +1,6 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/P1.Master" AutoEventWireup="true" CodeBehind="StaffAttendance.aspx.cs" Inherits="DGM_Organical.StaffAttendance" %>
+
+<%@ Register Assembly="System.Web.DataVisualization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" Namespace="System.Web.UI.DataVisualization.Charting" TagPrefix="asp" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="TitleContent" runat="server">
 </asp:Content>
 
@@ -37,9 +39,9 @@
                         </tr>
                         <tr>
                             <td>2024-08-02</td>
-                            <td>09:15 AM</td>
-                            <td>05:00 PM</td>
-                            <td>7.75 hours</td>
+                            <td>09:00 AM</td>
+                            <td>04:00 PM</td>
+                            <td>7.00 hours</td>
                         </tr>
                         <tr>
                             <td>2024-08-03</td>
@@ -104,5 +106,18 @@
                 </table>
             </div>
         </section>
-    </div>
+        <div class="chart-container">
+            <h2>Your Working Hours (Monday - Friday)</h2>
+            <asp:Chart ID="Chart1" runat="server" Width="600px" Height="400px" CssClass="chart">
+                <Series>
+                    <asp:Series Name="Hours" ChartType="Column"></asp:Series>
+                </Series>
+                <ChartAreas>
+                    <asp:ChartArea Name="ChartArea1"></asp:ChartArea>
+                </ChartAreas>
+                <Legends>
+                    <asp:Legend Enabled="false"></asp:Legend>
+                </Legends>
+            </asp:Chart>
+        </div>
 </asp:Content>
