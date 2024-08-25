@@ -83,6 +83,7 @@
     <Content Include="Checkout.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Css\P1.css" />
+    <Content Include="Css\Staff.css" />
     <Content Include="Home.aspx" />
     <Content Include="Image\About1.jpg" />
     <Content Include="Image\About2.jpg" />
