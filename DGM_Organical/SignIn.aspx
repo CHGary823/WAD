@@ -3,28 +3,14 @@
 </asp:Content>
 
 <asp:Content ID="Content3" ContentPlaceHolderID="MainContent" runat="server">
-    <header>
-        <h1>Welcome to DGM Organics!</h1>
-        <p>Your journey to a healthier living begins right here~.</p>
-    </header>
-
-    <div class="form-container">
-
-
-        <!-- Sign In Form -->
-        <div class="form-box">
-            <h2>Sign In</h2>
-           
-                <div class="input-group">
-                    <label for="login-email">Email</label>
-                    <input type="email" id="login-email" name="login-email" required>
-                </div>
-                <div class="input-group">
-                    <label for="login-password">Password</label>
-                    <input type="password" id="login-password" name="login-password" required>
-                </div>
-                <button type="submit" class="btn">Sign In</button>
- 
-        </div>
+    <header class="headerAU">
+    <h1>Welcome to DGM Organics!</h1>
+    <p>Your journey to a healthier living begins right here~.</p>
+</header>
+    
+    <div class="centered-content">
+        
+        <asp:Login ID="Login1" runat="server" OnAuthenticate="Login1_Authenticate" CssClass="login-form"></asp:Login>
     </div>
 </asp:Content>
+

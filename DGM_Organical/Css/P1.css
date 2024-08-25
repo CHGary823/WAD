@@ -3,10 +3,10 @@
     text-decoration: none;
 }
 
-html, body{
-    height:100%;
-    padding:0;
-    margin:0;
+html, body {
+    height: 100%;
+    padding: 0;
+    margin: 0;
     width: 100%;
 }
 
@@ -22,7 +22,7 @@ body {
 .header, .footer, .content, .carousel {
     width: 100%;
     padding: 0;
-    margin: 0 auto; 
+    margin: 0 auto;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -36,25 +36,25 @@ h1, h2, h3, h4, h5, h6 {
     padding: 20px;
     background-color: #4CAF50;
     color: white;
-    box-sizing: border-box; /* Include padding in width calculation */
+    box-sizing: border-box;
     width: 100%; /* Full width */
 }
 
 .header-content {
     display: flex;
-    align-items: center; /* Center items vertically */
-    justify-content: space-between; /* Space between logo/text and header-right */
+    align-items: center;
+    justify-content: space-between;
 }
 
 .logo {
-    max-width: 100px; /* Adjust the size of the logo */
-    margin-right: 20px; /* Space between the logo and text */
-    height: 72px;
+    max-width: 150px;
+    margin-right: 20px;
+    height: auto;
     width: 92px;
 }
 
 .text-content {
-    flex: 1; /* Allow the text content to take up remaining space */
+    flex: 1;
 }
 
     .text-content h1 {
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .cart-icon {
-    max-width: 40px; /* Adjust the size of the user icon */
+    max-width: 40px;
     margin-right: 10px;
 }
 
@@ -98,7 +98,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
     .sign-btn:hover {
-        background-color: #555;
+        background-color:   #555;
+            
     }
 
 /* NavBar styles */
@@ -928,4 +929,333 @@ input[type="text"], input[type="email"] {
     background-color: #e8eaf6;
     align-self: flex-start;
     border-bottom-left-radius:  0;
+}
+
+/************************** Login Styles ********************/
+/* Center the content and style the forms */
+.centered-content {
+    max-width: 500px; /* Adjust the width as needed */
+    margin: 0 auto;
+    padding: 30px;
+    text-align: center;
+}
+
+.login-form,
+.signup-form {
+    margin: 0 auto;
+    max-width: 500px; /* Adjust the width as needed */
+}
+
+    .login-form input,
+    .signup-form input {
+        width: auto; /* Adjust to fit within the form width */
+        margin: 10px 0;
+        margin-left: 5px; /* Add left margin */
+    }
+
+
+/* Style for Remember Me checkbox */
+.remember-me-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.remember-me-checkbox {
+    margin-left: 5px;
+}
+
+.remember-me-label {
+    margin-right:  5px;
+     
+}
+/**Captcha Styles *********************/
+
+.centered-content {
+    text-align: center;
+}
+
+.captcha-placeholder {
+    margin-top: 30px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+}
+
+    .captcha-placeholder p {
+        font-size: 20px;
+        color: #555;
+        margin: 0;
+        padding: 0;
+    }
+
+    .captcha-placeholder img {
+        max-width: 300px;
+        max-height: 150px;
+        width: auto;
+        height: auto;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+    }
+
+    .captcha-placeholder input {
+        margin-top: 15px;
+        padding: 10px;
+        border: 2px solid #ccc;
+        border-radius: 10px;
+        max-width: 300px;
+        font-size: 18px;
+    }
+
+
+.refresh-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #cc0000;
+    background-color: #ff4d4d; /* Red background */
+    color: white;
+    cursor: pointer;
+}
+
+    .refresh-button:hover {
+        background-color: #e60000; /* Darker red on hover */
+    }
+
+.submit-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #006600;
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    cursor: pointer;
+}
+
+    .submit-button:hover {
+        background-color: #45a049; /* Darker green on hover */
+            
+    }
+/************************************* Home Styles *****************************************/
+.headerH {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    padding: 1rem;
+    margin-bottom: 20px;
+}
+
+.carousel-inner {
+    text-align: center; /* Center images horizontally */
+    overflow: hidden;
+}
+
+.carousel-item img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.HomeLogo {
+    max-width: 150px;
+    height: auto;
+}
+
+.service-icon-size {
+    max-width: 100px;
+     height:  auto;
+}
+/*************************************** Cafe Styles *************************************/
+.menu-table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    .menu-table th, .menu-table td {
+        text-align: left;
+        padding: 8px;
+    }
+
+    .menu-table th {
+        background-color: #f2f2f2;
+    }
+
+.category-row {
+    background-color: #e0e0e0;
+    color: #333;
+    font-weight: bold;
+    text-align: center;
+    font-size: 1.2em;
+    border: none;
+}
+
+.menu-table td, .menu-table th {
+    border: none;
+}
+
+.menu-table .category-row td {
+    text-align: center;
+}
+
+.menu-section {
+    margin-bottom: 30px;
+}
+
+/***** Reservation *****/
+
+#reservation-details {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+    #reservation-details label {
+        margin-bottom: 5px;
+        font-weight: bold;
+    }
+
+    #reservation-details input,
+    #reservation-details textarea {
+        margin-bottom: 15px;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        width: 100%;
+    }
+
+    #reservation-details button {
+        padding: 10px 20px;
+        background-color: #007bff;
+        color: white;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+
+    #reservation-details button:hover {
+            background-color: #0056b3;
+                    
+     }
+
+/************************************ Inventory *************************/
+.chart-container {
+    width: 100%; /* Stretch to fit the parent container */
+    height: 400px; /* Set a fixed height or adjust as needed */
+}
+
+/* Style for GridView */
+.custom-gridview {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 30px;
+    background-color: #f9f9f9; /* Light background */
+}
+
+    .custom-gridview th {
+        background-color: #4CAF50; /* Green header background */
+        color: white; /* White text */
+        padding: 10px;
+        text-align: center;
+    }
+
+    .custom-gridview td {
+        background-color: #eaf5e0; /* Light green for rows */
+        color: #333; /* Dark text */
+        padding: 10px;
+        text-align: center;
+    }
+
+    .custom-gridview tr:nth-child(even) {
+        background-color: #d9f2d9; /* Slightly darker green for even rows */
+    }
+
+    .custom-gridview tr:hover {
+        background-color: #c8e6c9; /* Highlight on hover */
+    }
+
+.custom-formview {
+    width: 100%;
+    max-width: 800px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+}
+
+/* Positioning the Edit button */
+.formview-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.product-info {
+    flex: 1;
+}
+
+.edit-button-container {
+    margin-left: 10px;
+}
+
+.edit-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+    .edit-button:hover {
+        background-color: #0056b3;
+    }
+
+
+/* Footer styles */
+.footer {
+    clear: both;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #000;
+    color: white;
+    text-align: left;
+    box-sizing: border-box;
+}
+
+#ContactBtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+    #ContactBtn:hover {
+        background-color: #45a049;
+    }
+
+/* Social Icon */
+.social-icons {
+    margin-top: 10px;
+}
+
+    .social-icons a {
+        margin: 0 10px;
+        display: inline-block;
+    }
+
+.social-icon {
+    width: 30px; /* Adjust size as needed */
+     height:  30px;
 }

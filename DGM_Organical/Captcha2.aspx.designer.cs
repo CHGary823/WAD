@@ -11,34 +11,25 @@ namespace DGM_Organical
 {
 
 
-    public partial class SignUp
+    public partial class Captcha2
     {
 
         /// <summary>
-        /// CreateUserWizard1 control.
+        /// RefreshCaptchaButton control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CreateUserWizard CreateUserWizard1;
+        protected global::System.Web.UI.WebControls.Button RefreshCaptchaButton;
 
         /// <summary>
-        /// CreateUserWizardStep1 control.
+        /// SubmitCaptchaButton control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.CreateUserWizardStep CreateUserWizardStep1;
-
-        /// <summary>
-        /// CompleteWizardStep1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.CompleteWizardStep CompleteWizardStep1;
+        protected global::System.Web.UI.WebControls.Button SubmitCaptchaButton;
     }
 }
