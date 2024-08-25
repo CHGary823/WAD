@@ -1,0 +1,86 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="P1.master.cs" Inherits="DGM_Organical.P1" %>
+
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title><asp:ContentPlaceHolder ID="TitleContent" runat="server" />D.G.M Organical Store</title>
+    <meta charset="UTF-8">
+    <link href="Css/P1.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+    <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+
+</head>
+
+
+<body class="default">
+    <form id="form1" runat="server">
+        <asp:SiteMapDataSource ID="SiteMapDataSource1" runat="server" />
+    <div class="content" >
+        <!------------------ Header --------------------->
+<header class="header">
+    <div class="header-content">
+        <a href="Home.aspx">
+        <img src="Image/Logo.png"  alt="Logo" class="logo">
+        </a>
+        <div class="text-content">
+            <h1>D.G.M Organic</h1>
+            <p>Welcome to the store of <span class="store-name">D.G.M</span></p>
+        </div>
+        <div class="header-right">
+            <a href="cart.aspx">
+                <img src="Image/ShoppingCart.png" alt="Cart Icon" class="cart-icon">
+            </a>
+            <a href="SignIn.aspx" class="sign-btn">Sign In</a>
+            <a href="SignUp.aspx" class="sign-btn">Sign Up</a>
+        </div>
+    </div>
+    <div class="NavBar">
+        <asp:SiteMapPath ID="SiteMapPath1" runat="server"></asp:SiteMapPath>
+    </div>
+</header>
+        <br />
+<asp:Menu ID="Menu1" runat="server" DataSourceID="SiteMapDataSource1"
+    ForeColor="#333" Orientation="Horizontal" StaticDisplayLevels="2"
+    StaticSubMenuIndent="10px" DynamicSubMenuIndent="10px">
+    <StaticMenuItemStyle BorderStyle="None" HorizontalPadding="10px" VerticalPadding="10px" BackColor="Transparent" />
+    <StaticHoverStyle BorderColor="Transparent" BorderStyle="Solid" BorderWidth="2px" BackColor="lightGreen" />
+    <DynamicMenuItemStyle BorderStyle="None" Width="100%" HorizontalPadding="5px" VerticalPadding="10px" BackColor="White" />
+    <DynamicHoverStyle BorderColor="Transparent" BorderStyle="Solid" BorderWidth ="2px" BackColor="lightGrey" ForeColor="#E327C7" />
+    <DynamicSelectedStyle BackColor="#4CAF50" />
+    <StaticSelectedStyle BackColor="#4CAF50" />
+    
+</asp:Menu>
+
+
+
+        <!-- Main Content Area -->
+        <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+
+        <!-- Footer -->
+        <footer class="footer">
+            
+            
+            <asp:Button ID="ContactBtn" runat="server" OnClick="Button1_Click" Text="Contact US" />
+            
+            <p>Contact us if  there is still more infomation through the contact button or call 012-343 5555</p>
+        </footer>
+    </div>
+    </form>
+
+     <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    
+    <!-- Bootstrap JS -->
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+    
+    <!-- SweetAlert2 JS -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    
+    <!-- Dropzone JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/dropzone/5.7.2/min/dropzone.min.js"></script>
+
+</body>
+</html>
+
