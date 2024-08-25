@@ -116,3 +116,7 @@ C:\Personal\Assignment\DGM_Organical\DGM_Organical\obj\Debug\DGM_Organical.cspro
 C:\Personal\Assignment\DGM_Organical\DGM_Organical\obj\Debug\DGM_Orga.22854B78.Up2Date
 C:\Personal\Assignment\DGM_Organical\DGM_Organical\obj\Debug\DGM_Organical.dll
 C:\Personal\Assignment\DGM_Organical\DGM_Organical\obj\Debug\DGM_Organical.pdb
+C:\Personal\Assignment\DGM_Organical\DGM_Organical\bin\EntityFramework.dll
+C:\Personal\Assignment\DGM_Organical\DGM_Organical\bin\EntityFramework.SqlServer.dll
+C:\Personal\Assignment\DGM_Organical\DGM_Organical\bin\EntityFramework.xml
+C:\Personal\Assignment\DGM_Organical\DGM_Organical\bin\EntityFramework.SqlServer.xml

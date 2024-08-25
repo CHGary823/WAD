@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6878ecee8d134c9c929adeb2cdfd6585" Name="Diagram1" ZoomLevel="88">
+        <EntityTypeShape EntityType="Database1Model.Cart" Width="1.5" PointX="8.625" PointY="5.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.CartItem" Width="1.5" PointX="8.75" PointY="9.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Category" Width="1.5" PointX="12.375" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Inventory" Width="1.5" PointX="13.375" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.InvetoryLog" Width="1.5" PointX="15.75" PointY="8.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Member" Width="1.5" PointX="6.125" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.MemOrder" Width="1.5" PointX="6.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.MemPayment" Width="1.5" PointX="4.25" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.PastPassword" Width="1.5" PointX="4.125" PointY="13.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Product" Width="1.5" PointX="11.25" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.ProductPic" Width="1.5" PointX="10.5" PointY="5.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.PurOrder" Width="1.5" PointX="11.375" PointY="12.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.PurPayment" Width="1.5" PointX="14.375" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Reservation" Width="1.5" PointX="8.625" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Role" Width="1.5" PointX="4.25" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Staff" Width="1.5" PointX="2.25" PointY="8.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.Supplier" Width="1.5" PointX="14.375" PointY="14.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="Database1Model.LoginAttempt" Width="1.5" PointX="4.125" PointY="11.25" IsExpanded="true" />
+        <AssociationConnector Association="Database1Model.FK__Cart__MemberID__6477ECF3" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__CartItems__CartI__4D5F7D71" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__MemOrder__CartID__72C60C4A" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__CartItems__Membe__4E53A1AA" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__Product__Categor__45F365D3" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__Inventory__Produ__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__InvetoryL__Inven__76619304" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__InvetoryL__Produ__756D6ECB" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__LoginAtte__Membe__3A4CA8FD" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__MemOrder__Member__71D1E811" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__PastPassw__Membe__3B40CD36" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__Reservati__Membe__73BA3083" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__MemPaymen__MemOr__160F4887" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__ProductPi__Produ__5812160E" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__PurOrder__Produc__634EBE90" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__PurOrder__Suppli__625A9A57" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__PurPaymen__Purch__09746778" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__PurPaymen__Suppl__0880433F" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__Staff__RoleID__17036CC0" ManuallyRouted="false" />
+        <AssociationConnector Association="Database1Model.FK__Member__RoleID__22401542" />
+        <AssociationConnector Association="Database1Model.FK__CartItems__Produ__308E3499" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
