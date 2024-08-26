@@ -3,12 +3,80 @@
   "WorkspaceRootPath": "C:\\Personal\\Assignment\\DGM_Organical\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|c:\\personal\\assignment\\dgm_organical\\dgm_organical\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|c:\\personal\\assignment\\dgm_organical\\dgm_organical\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|c:\\personal\\assignment\\dgm_organical\\dgm_organical\\css\\p1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\css\\p1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\cafe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\cafe.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\chatbot.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\chatbot.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\checkout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\contact.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\inventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\inventory.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\plant1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\plant1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\product1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\product1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\seed.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\seed.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\seed1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\seed1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\captcha2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\captcha2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\signin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\staffattendance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\staffattendance.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\store.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\store.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|C:\\Personal\\Assignment\\DGM_Organical\\dgm_organical\\plant.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BC9AD52A-DB66-41AA-80A5-9BA34CC4225F}|DGM_Organical\\DGM_Organical.csproj|solutionrelative:dgm_organical\\plant.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +86,20 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 20,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Model1.edmx",
-              "RelativeDocumentMoniker": "DGM_Organical\\Model1.edmx",
-              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "DGM_Organical\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-08-25T12:41:41.868Z",
-              "EditorCaption": " [Diagram1]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "P1.css",
-              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Css\\P1.css",
-              "RelativeDocumentMoniker": "DGM_Organical\\Css\\P1.css",
-              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Css\\P1.css",
-              "RelativeToolTip": "DGM_Organical\\Css\\P1.css",
-              "ViewState": "AQIAAB8DAAAAAAAAAAAQwEIDAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-25T11:36:35.759Z",
-              "EditorCaption": ""
+              "DocumentIndex": 17,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Home.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Home.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Home.aspx",
+              "RelativeToolTip": "DGM_Organical\\Home.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:52.794Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -52,6 +108,223 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Store.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Store.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Store.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Store.aspx",
+              "RelativeToolTip": "DGM_Organical\\Store.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:41:03.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StaffAttendance.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\StaffAttendance.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\StaffAttendance.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\StaffAttendance.aspx",
+              "RelativeToolTip": "DGM_Organical\\StaffAttendance.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:41:02.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\SignUp.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\SignUp.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\SignUp.aspx",
+              "RelativeToolTip": "DGM_Organical\\SignUp.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:41:01.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SignIn.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\SignIn.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\SignIn.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\SignIn.aspx",
+              "RelativeToolTip": "DGM_Organical\\SignIn.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:59.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Seed1.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Seed1.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Seed1.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Seed1.aspx",
+              "RelativeToolTip": "DGM_Organical\\Seed1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:59.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Seed.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Seed.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Seed.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Seed.aspx",
+              "RelativeToolTip": "DGM_Organical\\Seed.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:58.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product1.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Product1.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Product1.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Product1.aspx",
+              "RelativeToolTip": "DGM_Organical\\Product1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:57.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Product.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Product.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Product.aspx",
+              "RelativeToolTip": "DGM_Organical\\Product.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:57.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Plant1.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Plant1.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Plant1.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Plant1.aspx",
+              "RelativeToolTip": "DGM_Organical\\Plant1.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:56.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Plant.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Plant.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Plant.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Plant.aspx*",
+              "RelativeToolTip": "DGM_Organical\\Plant.aspx*",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:55.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Inventory.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Inventory.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Inventory.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Inventory.aspx",
+              "RelativeToolTip": "DGM_Organical\\Inventory.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:53.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Contact.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Contact.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Contact.aspx",
+              "RelativeToolTip": "DGM_Organical\\Contact.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:51.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Checkout.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Checkout.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Checkout.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Checkout.aspx",
+              "RelativeToolTip": "DGM_Organical\\Checkout.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:51.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Chatbot.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Chatbot.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Chatbot.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Chatbot.aspx",
+              "RelativeToolTip": "DGM_Organical\\Chatbot.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:50.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Cart.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Cart.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Cart.aspx",
+              "RelativeToolTip": "DGM_Organical\\Cart.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:49.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Captcha2.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Captcha2.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Captcha2.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Captcha2.aspx",
+              "RelativeToolTip": "DGM_Organical\\Captcha2.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:48.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cafe.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Cafe.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\Cafe.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\Cafe.aspx",
+              "RelativeToolTip": "DGM_Organical\\Cafe.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:47.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\About.aspx",
+              "RelativeDocumentMoniker": "DGM_Organical\\About.aspx",
+              "ToolTip": "C:\\Personal\\Assignment\\DGM_Organical\\DGM_Organical\\About.aspx",
+              "RelativeToolTip": "DGM_Organical\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-25T15:40:46.388Z",
+              "EditorCaption": ""
             }
           ]
         }

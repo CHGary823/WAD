@@ -185,7 +185,9 @@
     <Compile Include="Captcha2.aspx.designer.cs">
       <DependentUpon>Captcha2.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Cart.aspx.__projection.g.cs" />
+    <Compile Include="Cart.aspx.__projection.g.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Cart.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
@@ -216,7 +218,9 @@
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Contact.aspx.__projection.g.cs" />
+    <Compile Include="Contact.aspx.__projection.g.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Home.aspx.cs">
       <DependentUpon>Home.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -224,7 +228,9 @@
     <Compile Include="Home.aspx.designer.cs">
       <DependentUpon>Home.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Home.aspx.__projection.g.cs" />
+    <Compile Include="Home.aspx.__projection.g.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Inventory.aspx.cs">
       <DependentUpon>Inventory.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -377,7 +383,9 @@
     <Compile Include="Cart.aspx.designer.cs">
       <DependentUpon>Cart.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Store.aspx.__projection.g.cs" />
+    <Compile Include="Store.aspx.__projection.g.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
     <Compile Include="Supplier.cs">
       <DependentUpon>Model1.tt</DependentUpon>
     </Compile>
